@@ -8,7 +8,7 @@ class Noir < Formula
 
   def install
     system "shards install"
-    system "shards build --release --no-debug"
+    system "shards build --release --no-debug --production"
     bin.install "bin/noir"
   end
 
