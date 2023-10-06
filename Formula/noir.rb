@@ -5,8 +5,8 @@
 class Noir < Formula
   desc "♠️ noir is an attack surface detector form source code"
   homepage "https://github.com/hahwul/noir"
-  url "https://github.com/hahwul/noir/archive/v0.9.0.tar.gz"
-  sha256 "a1a1f62310e5729454fdb44e92561d01c487f5d5fd070c796d6a064c142e0664"
+  url "https://github.com/hahwul/noir/archive/v0.9.1.tar.gz"
+  sha256 "3d9f7127af1896d109395cd497d0316b88001fa3e53252745939d00c08f70417"
   license "MIT"
 
   depends_on "crystal"
